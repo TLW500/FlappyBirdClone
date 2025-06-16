@@ -11,7 +11,6 @@ Fly the bird through pipes, try not to crash, and beat your high score!
 - Avoid hitting the pipes or falling off the screen.
 - Score increases every time you pass between pipes.
 - Game Over screen appears on collision.
-- High score is saved using `PlayerPrefs`.
 
 ---
 
@@ -20,7 +19,6 @@ Fly the bird through pipes, try not to crash, and beat your high score!
 - Unity 2D game mechanics
 - Rigidbody-based physics for bird movement
 - Pipe spawning system
-- Score tracking and high score saving
 - Particle system clouds
 - Animated bird flapping
 - Title screen with UI and Play button
